@@ -1,0 +1,8 @@
+print('<html lang="en">')
+print('  <head>')
+print('    <title>Test webpage</title>')
+print('  </head>')
+print('  <body>')
+print('    <img src="images\\test.jpg" />')
+print('  </body>')
+print('</html>')
